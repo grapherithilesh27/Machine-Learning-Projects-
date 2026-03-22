@@ -1,3 +1,0 @@
-# Text Classifier
-
-This project aims to classify news articles into their respective categories using the 20 newsgroups dataset. It uses a random forest classifier and tf-idf vectorizer to achieve this. The project is written in python and uses scikit-learn and pandas libraries. To run the project, simply execute the python script. The project also includes a function to make predictions on new text data.
