@@ -1,3 +1,0 @@
-# News Article Classifier
-
-This project uses the 20 newsgroups dataset from sklearn to train a text classifier. The goal is to classify news articles into different categories using machine learning algorithms. The project includes data preprocessing, feature extraction, and model training using Naive Bayes and Random Forest classifiers. The code includes examples of how to use the TfidfVectorizer and different classifiers to achieve good accuracy. It's a fun project that can be extended to use more advanced techniques like deep learning.
