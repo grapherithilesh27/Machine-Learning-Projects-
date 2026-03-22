@@ -1,2 +1,2 @@
 # Machine-Learning-Projects-
-Love to build 
+A collection of ML projects built daily covering NLP, Computer Vision, Stock Market analysis (could be) and many more.
