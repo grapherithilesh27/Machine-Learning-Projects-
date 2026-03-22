@@ -1,3 +1,0 @@
-# News Category Classifier
-
-This project uses the 20 newsgroups dataset to classify news articles into their respective categories. The dataset is split into training and testing sets, and a tfidf vectorizer is used to transform the text data into numerical features. An svm classifier is then trained on the data and its performance is evaluated using accuracy score and classification report. The project also includes a grid search to find the best hyperparameters for the svm classifier.
