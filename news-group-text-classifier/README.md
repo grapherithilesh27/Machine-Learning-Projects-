@@ -1,0 +1,3 @@
+# News Group Text Classifier
+
+This project uses machine learning to classify news articles into different categories. The model is trained and tested on the 20 newsgroups dataset from sklearn. The project covers text preprocessing, feature extraction using TF-IDF, and classification using a naive bayes classifier. To run the project, make sure to install the required dependencies: sklearn, numpy, and pandas. The code can be run in a python environment with the required libraries installed.
