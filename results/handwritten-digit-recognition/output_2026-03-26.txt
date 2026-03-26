@@ -1,0 +1,14 @@
+ML Code Test Results
+==================================================
+Project: handwritten-digit-recognition
+Date: 2026-03-26
+Status: FAILED
+Duration: 7.42s
+==================================================
+
+OUTPUT:
+/bin/sh: line 1: 17974 Segmentation fault: 11  /opt/anaconda3/bin/python main.py 2>&1
+
+
+ERROR: Command failed: cd /tmp/ml-tester && /opt/anaconda3/bin/python main.py 2>&1
+/bin/sh: line 1: 17974 Segmentation fault: 11  /opt/anaconda3/bin/python main.py 2>&1
