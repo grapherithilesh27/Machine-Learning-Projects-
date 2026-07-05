@@ -27,7 +27,21 @@
         "RoBERTa"
       ],
       "github_url": "https://github.com/grapherithilesh27/Machine-Learning-Projects-/tree/main/projects/2026-07-05-github-issue-labeling-nlp"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Predicting GitHub Repository Stars using Graph Neural Networks",
+      "slug": "github-repo-stars-prediction-gnn",
+      "summary": "Develop a machine learning model to predict the number of stars a GitHub repository will receive based on its characteristics, such as the number of forks, watchers, and contributors, using Graph Neural Networks (GNNs).",
+      "keywords": [
+        "Graph Neural Networks",
+        "GitHub API",
+        "Repository Popularity Prediction",
+        "Graph-Structured Data",
+        "Continuous Outcome Prediction"
+      ],
+      "github_url": "https://github.com/grapherithilesh27/Machine-Learning-Projects-/tree/main/projects/2026-07-05-github-repo-stars-prediction-gnn"
     }
   ],
-  "updated_at": "2026-07-05T02:50:53.650Z"
+  "updated_at": "2026-07-05T02:59:42.780Z"
 }

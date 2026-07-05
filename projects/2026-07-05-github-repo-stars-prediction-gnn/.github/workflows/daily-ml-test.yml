@@ -1,0 +1,16 @@
+name: Daily ML Test
+on:
+  schedule:
+    - cron: 0 0 * * *
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Run demo
+        run: python src/main.py
+      - name: Run tests
+        run: python -m unittest tests/test_gnn.py
+      - name: Generate docs
+        run: wkhtmltopdf docs/thesis.html docs/thesis.pdf
