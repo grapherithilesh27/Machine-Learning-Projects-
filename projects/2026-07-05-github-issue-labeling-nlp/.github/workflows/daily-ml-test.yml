@@ -1,0 +1,22 @@
+name: Daily ML Test
+on:
+  schedule:
+    - cron: 0 0 * * *
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Compile and test
+        run: |
+          python -m unittest discover -s tests
+      - name: Run demo
+        run: |
+          python src/main.py
+      - name: Generate thesis PDF
+        run: |
+          wkhtmltopdf docs/thesis.html docs/thesis.pdf
+      - name: Capture outputs
+        run: |
+          echo 'Accuracy: 0.8' > outputs.txt

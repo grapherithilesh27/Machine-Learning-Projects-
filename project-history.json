@@ -12,7 +12,22 @@
         "Repository Classification"
       ],
       "github_url": "https://github.com/grapherithilesh27/Machine-Learning-Projects-/tree/main/projects/2026-07-05-explainable-ai-github-repo-classification"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Automated GitHub Issue Labeling using Natural Language Processing",
+      "slug": "github-issue-labeling-nlp",
+      "summary": "Develop a machine learning model to automatically label GitHub issues based on their descriptions, reducing manual effort and improving issue tracking efficiency.",
+      "keywords": [
+        "Natural Language Processing",
+        "Text Classification",
+        "GitHub API",
+        "Transfer Learning",
+        "BERT",
+        "RoBERTa"
+      ],
+      "github_url": "https://github.com/grapherithilesh27/Machine-Learning-Projects-/tree/main/projects/2026-07-05-github-issue-labeling-nlp"
     }
   ],
-  "updated_at": "2026-07-05T02:47:53.099Z"
+  "updated_at": "2026-07-05T02:50:53.650Z"
 }
