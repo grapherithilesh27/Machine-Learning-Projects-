@@ -1,0 +1,18 @@
+{
+  "projects": [
+    {
+      "date": "2026-07-05",
+      "title": "Explainable AI for Open-Source GitHub Repository Classification",
+      "slug": "explainable-ai-github-repo-classification",
+      "summary": "Develop an explainable machine learning model to classify GitHub repositories into categories like web development, machine learning, or data science, and provide insights into the decision-making process.",
+      "keywords": [
+        "Explainable AI",
+        "Model Interpretability",
+        "GitHub API",
+        "Repository Classification"
+      ],
+      "github_url": "https://github.com/grapherithilesh27/Machine-Learning-Projects-/tree/main/projects/2026-07-05-explainable-ai-github-repo-classification"
+    }
+  ],
+  "updated_at": "2026-07-05T02:47:53.099Z"
+}

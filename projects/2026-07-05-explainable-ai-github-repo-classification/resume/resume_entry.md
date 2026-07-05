@@ -1,0 +1,1 @@
+* Developed an explainable machine learning model to classify GitHub repositories into categories like web development, machine learning, or data science, and provide insights into the decision-making process using SHAP values and LIME.
